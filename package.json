@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DanBrennan33/Automatic-Angular/issues"
   },
-  "homepage": "https://github.com/DanBrennan33/Automatic-Angular#readme"
+  "homepage": "https://github.com/DanBrennan33/Automatic-Angular#readme",
+  "dependencies": {
+    "angular-in-memory-web-api": "^0.5.2"
+  }
 }
